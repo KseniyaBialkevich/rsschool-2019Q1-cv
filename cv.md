@@ -40,13 +40,3 @@ I got experience during the learning process. For example:
 My English level is about A2.
 In the past, I attended English language courses for about 2 years and studied with a tutor.
 Recently, I have had little practice. But I have a objective to practice English, repeat old skills and learn new ones.
-
-
-
-
-
-
-
-
-
-
