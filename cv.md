@@ -4,12 +4,12 @@
 ***
 
 **Contacts:**
-- :fa-phone-square: +375299557080
-- :fa-envelope: kseniyabialkevich@gmail.com
-- :fa-github: https://gist.github.com/KseniyaBialkevich
-- :fa-location-arrow: [@Kseniya_Bialkevich](https://web.telegram.org/#/Kseniya_Bialkevich)
-- :fa-twitter: [@Kseniya15531717](https://twitter.com/Kseniya15531717)
+- phone: +375299557080
+- email: kseniyabialkevich@gmail.com
+- github: https://gist.github.com/KseniyaBialkevich
+- telegram: [@Kseniya_Bialkevich](https://web.telegram.org/#/Kseniya_Bialkevich)
 ***
+
 **Summary:**
 I would like to realize myself as a valuable developer. 
 I like programming because it is an area in which you can develop always and you can share international experience. 
