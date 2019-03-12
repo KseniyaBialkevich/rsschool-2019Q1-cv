@@ -1,0 +1,23 @@
+.content {
+	max-width: 1024px;
+ 	margin: auto;
+}
+
+.profile {
+	background-color: rgb(164,198,244);
+	border: 1px solid black;
+}
+
+.avatar {
+	width: 340px; 
+    height: 340px;
+	background-image: url(https://pp.userapi.com/c837729/v837729080/300c9/Z4846XJFM0k.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 170px;
+    border: 3px solid #839EC3;
+    margin: auto;
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+
