@@ -21,3 +21,24 @@
     margin-bottom: 23px;
 }
 
+h1 {
+	text-align: center;
+	color: rgb(26, 26, 26);
+	line-height: 1.5;
+}
+
+h2 {
+	font-size: 20px;
+	//font-weight: bold;
+	text-align: center;
+	color: rgb(26, 26, 26);
+	opacity: 0.9;
+    line-height: 0;
+	padding-bottom: 30px;
+}
+
+.contacts {
+	background-color: rgb(237,237,237);
+	border: 1px solid black;
+	padding: 23px 45px;
+}
