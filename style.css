@@ -42,3 +42,14 @@ h2 {
 	border: 1px solid black;
 	padding: 23px 45px;
 }
+
+.contacts ul li {
+	list-style-type: none;
+	text-decoration: none;
+}
+
+
+
+.github_link {
+	text-decoration: none;
+}
