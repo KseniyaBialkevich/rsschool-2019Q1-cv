@@ -1,22 +1,22 @@
 .content {
-	margin: auto;
-	max-width: 1024px;
+    margin: auto;
+    max-width: 1024px;
 }
 
 .profile {
-	font-family: "Times New Roman", Times, serif;
-	background-color: #a4c6f4;
-	border: 2px solid #06062a;
-	border-bottom: none;
+    font-family: "Times New Roman", Times, serif;
+    background-color: #a4c6f4;
+    border: 2px solid #06062a;
+    border-bottom: none;
 }
 
 .avatar {
-	width: 340px; 
+    width: 340px;
     height: 340px;
     margin: auto;
     margin-top: 27px;
     margin-bottom: 23px;
-	background-image: url(https://pp.userapi.com/c837729/v837729080/300c9/Z4846XJFM0k.jpg);
+    background-image: url(https://pp.userapi.com/c837729/v837729080/300c9/Z4846XJFM0k.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     border: 3px solid #839EC3;
@@ -24,86 +24,87 @@
 }
 
 h1 {
-	line-height: 1.5;
-	text-align: center;
-	color: #000000;
+    line-height: 1.5;
+    text-align: center;
+    color: #000000;
 }
 
 h2 {
-	margin: 0 auto;
-	font-size: 20px;
-	text-align: center;
-	color: #1a1a1a;
-	opacity: 0.9;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    color: #1a1a1a;
+    opacity: 0.9;
     line-height: 0;
-	padding-bottom: 30px;
+    padding-bottom: 30px;
 }
 
 .contacts {
-	padding: 23px 45px;
-	font-family: Geneva, Arial, Helvetica, sans-serif;
-	background-color: #ededed;
-	border-left: 2px solid #06062a;
-	border-right: 2px solid #06062a;
-	border-bottom: 1px solid #06062a;
-	border-top: 1px solid #06062a;
+    padding: 23px 45px;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    background-color: #ededed;
+    border-left: 2px solid #06062a;
+    border-right: 2px solid #06062a;
+    border-bottom: 1px solid #06062a;
+    border-top: 1px solid #06062a;
 }
 
 .contacts ul li {
-	list-style-type: none;
-	color: #06062a;
+    list-style-type: none;
+    color: #06062a;
 }
 
 .link {
-	text-decoration: none;
-	color: #06062a;
+    text-decoration: none;
+    color: #06062a;
 }
 
 a:link {
-  color: #06062a;
+    color: #06062a;
 }
 
 a:visited {
-  color: #06062a;
+    color: #06062a;
 }
 
 a:hover {
-  color: #0b17ba;
+    color: #0b17ba;
 }
 
 a:active {
-  color: #810f8e;
+    color: #810f8e;
 }
 
 .fa {
-	color: #030314;
+    color: #030314;
 }
 
 .section {
-	padding: 27px 75px;
-	font-family: "Times New Roman", Times, serif;
-	font-size: 17px;
-	border: 2px solid #06062a;;
-	border-top: none;
-	border-bottom: none;	
+    padding: 27px 75px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+    border: 2px solid #06062a;
+    ;
+    border-top: none;
+    border-bottom: none;
 }
 
 .footer {
-	padding-top: 40px;
-	padding-bottom: 40px;
-	background-color: #a4c6f4;
-	border-left: 2px solid #06062a;
-	border-right: 2px solid #06062a;
-	border-bottom: 1px solid #06062a;
-	border-top: 1px solid #06062a;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #a4c6f4;
+    border-left: 2px solid #06062a;
+    border-right: 2px solid #06062a;
+    border-bottom: 1px solid #06062a;
+    border-top: 1px solid #06062a;
 }
 
 .footer p {
-	margin: 0 auto;
-	font-family: "Times New Roman", Times, serif;
-	font-size: 20px;
-	font-weight: bold;
-	text-align: center;
-	color: #1a1a1a;
-	opacity: 0.9; 	
+    margin: 0 auto;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #1a1a1a;
+    opacity: 0.9;
 }
